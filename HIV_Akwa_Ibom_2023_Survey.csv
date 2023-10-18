@@ -1,0 +1,47 @@
+date,name,age,gender,marital_status,number_of_dependants,educational_level,employment_status,positive_status_year,hiv_positive,year_since_positive,ART_treatment,treatment_duration,follow_precription,ART_side_effects,effects_desc,healthcare_access,support_group_awareness,support_group_participation,campaign_impact,support_desc,additional_comments,research_data_consent
+9/12/2023,Isaiah akam,18-24,Male,Single,0,Tertiary,Student,0,No,0,No,Not stated,Never,No,Not stated,No,No,Not stated,No,Not stated,No,No
+9/12/2023,Caleb,25-34,Male,Married,3,Tertiary,Employed,2018,Yes,5,Yes,3 years,Daily,No,Not stated,Yes,Yes,Yes,Yes,Not stated,Create Awareness,No
+9/12/2023,Not Stated,25-34,Female,Divorced,2,Secondary,Unemployed,2017,Yes,6,Yes,4 years,Occasionally,No,Not stated,Sometimes,Yes,Yes,Yes,Check ups and more drugs,No,No
+9/12/2023,Enobong ,55 and above,Male,Married,0,Secondary,Retired,0,No,0,No,Not stated,Never,No,Not stated,No,Not stated,No,No,Not stated,Not stated,Yes
+9/12/2023,Not Stated,25-34,Male,Single,0,Tertiary,Student,2021,Yes,2,No,Not stated,Never,No,Not stated,Sometimes,Yes,Yes,No,Not stated,No,Yes
+9/12/2023,Not Stated,55 and above,Female,Divorced,0,Secondary,Retired,2023,Yes,0,No,Not stated,Not stated,Not stated,Not stated,No,No,Not stated,No,Not stated,No,Yes
+9/12/2023,Kirachi ,18-24,Male,Widowed,0,Secondary,Student,0,No,0,No,Not stated,Never,No,Not stated,No,No,Not stated,No,Not stated,Not stated,Yes
+9/12/2023,Lucy,45-54,Female,Widowed,0,Tertiary,Employed,2023,Yes,0,Yes,Four months,Occasionally,No,Not stated,Yes,Yes,Yes,Yes,Not stated,No,Yes
+9/12/2023,Maxwell ,35-44,Male,Married,3,Tertiary,Employed,0,No,0,No,Not stated,Never,No,Not stated,No,Yes,Not stated,No,Not stated,Create Awareness,Yes
+9/12/2023,Sarah,18-24,Female,Single,0,Tertiary,Unemployed,2023,Yes,0,No,Not stated,Not stated,Not stated,Not stated,No,Yes,No,No,Not stated,Not stated,Yes
+9/12/2023,Mara,18-24,Female,Single,0,Tertiary,Student,0,No,0,No,Not stated,Not stated,Not stated,Not stated,Sometimes,No,No,No,Not stated,Not stated,Yes
+9/12/2023,Alexis ,35-44,Female,Separated,3,Tertiary,Employed,2019,Yes,4,Yes,4years,Daily,Yes,Some kind of fatigue ,Yes,Yes,Yes,Yes,More drugs,No,Yes
+9/12/2023,Essien,55 and above,Female,Married,5,Secondary,Retired,2011,Yes,12,Yes,8 years ,Occasionally,No,Not stated,Sometimes,Yes,Yes,Yes,Check ups and more drugs,Create Awareness,Yes
+9/12/2023,Sam,45-54,Male,Married,0,No formal education,Others,0,No,0,No,Not stated,Not stated,Not stated,Not stated,No,No,No,No,Not stated,No,Yes
+9/12/2023,Phyna,18-24,Female,Single,0,Tertiary,Student,2019,Yes,4,No,Not stated,Not stated,Not stated,Not stated,No,No,Not stated,No,Not stated,No,Yes
+9/12/2023,Adams,45-54,Male,Divorced,6,Secondary,Employed,0,No,0,No,Not stated,Never,No,Not stated,No,Yes,Others,No,Not stated,Not stated,Yes
+9/12/2023,Not Stated,18-24,Male,Single,0,Secondary,Student,0,No,0,No,Not stated,Never,No,Not stated,No,No,Not stated,No,Not stated,Not stated,No
+9/12/2023,Lorita,18-24,Female,Single,0,Secondary,Student,0,No,0,No,Not stated,Not stated,Not stated,Not stated,No,No,Not stated,No,Not stated,No,Yes
+9/12/2023,Ekemini,25-34,Male,Single,1,Tertiary,Student,2021,Yes,2,Yes,2 years ,Rarely,No,Not stated,Sometimes,No,Yes,Yes,More drugs,No,Yes
+9/12/2023,Not Stated,45-54,Female,Separated,0,Tertiary,Others,2018,Yes,5,Yes,3 years,Daily,No,Not stated,Sometimes,Yes,Yes,Yes,Not stated,No,No
+9/12/2023,Martha ,25-34,Female,Married,4,Secondary,Unemployed,0,No,0,No,Not stated,Never,No,Not stated,No,No,Not stated,No,Not stated,Not stated,No
+9/12/2023,Isaiah,18-24,Male,Single,0,Tertiary,Student,2021,Yes,2,No,Not stated,Not stated,Not stated,Not stated,No,No,No,No,Not stated,No,Yes
+9/12/2023,Messi ,55 and above,Male,Separated,8,Secondary,Retired,2013,Yes,10,Yes,5 years ,Occasionally,No,Not stated,Sometimes,No,Not stated,No,Not stated,Not stated,Yes
+9/12/2023,Astro,18-24,Male,Married,3,Tertiary,Student,0,No,0,No,Not stated,Never,No,Not stated,No,No,Not stated,No,Not stated,Not stated,Yes
+9/12/2023,Femi,55 and above,Male,Divorced,0,Secondary,Retired,2022,Yes,1,No,Not stated,Not stated,Not stated,Not stated,No,No,No,No,Not stated,Not stated,Yes
+9/12/2023,Elam,35-44,Female,Married,1,Secondary,Student,0,No,0,No,Not stated,Never,Not stated,Not stated,Not stated,Not stated,Not stated,No,Not stated,help from government,Yes
+9/12/2023,Emmy ,18-24,Female,Single,0,No formal education,Others,2023,Yes,0,No,Not stated,Not stated,Not stated,Not stated,Sometimes,No,No,No,Not stated,Not stated,Yes
+9/12/2023,Divine ,18-24,Male,Single,0,Tertiary,Student,0,No,0,No,Not stated,Never,Not stated,Not stated,No,No,No,No,Not stated,Not stated,Yes
+9/12/2023,Daniel,25-34,Male,Single,0,No formal education,Others,0,No,0,No,Not stated,Not stated,Not stated,Not stated,No,No,No,No,Not stated,Not stated,Yes
+9/12/2023,Not Stated,45-54,Male,Single,3,No formal education,Employed,0,No,0,No,Not stated,Not stated,Not stated,Not stated,Not stated,Not stated,Not stated,No,Not stated,more drugs,Yes
+9/12/2023,Not Stated,18-24,Male,Single,0,Primary,Student,0,No,0,No,Not stated,Never,No,Not stated,Sometimes,No,No,No,Not stated,Not stated,Yes
+9/12/2023,Zack,55 and above,Male,Prefer not to say,0,Secondary,Employed,2010,Yes,13,Yes,10 years ,Occasionally,Not sure,Not stated,Yes,Yes,Yes,Yes,Not stated,Not stated,Yes
+9/12/2023,Not Stated,25-34,Female,Divorced,0,Primary,Student,0,No,0,No,Not stated,Never,No,Not stated,No,No,No,Yes,Not stated,Not stated,Yes
+9/12/2023,Not Stated,35-44,Female,Married,0,Primary,Retired,0,No,0,No,Not stated,Rarely,Not sure,Not stated,No,Yes,No,No,Not stated,No,Yes
+9/12/2023,Not Stated,25-34,Male,Single,0,Secondary,Student,0,No,0,Yes,Not stated,Occasionally,No,Not stated,No,Yes,Others,Others,Not stated,No,Yes
+9/12/2023,Not Stated,55 and above,Female,Widowed,6,Secondary,Employed,2017,Yes,6,Yes,4 years ,Rarely,No,Not stated,Sometimes,No,No,Yes,Not stated,more drugs,Yes
+9/12/2023,Not Stated,35-44,Others,Married,0,No formal education,Unemployed,0,No,0,No,Not stated,Rarely,Not sure,Not stated,No,No,No,Yes,Not stated,Avoid Discrimination,Yes
+9/12/2023,Etim ,35-44,Male,Single,0,Secondary,Unemployed,0,No,0,No,Not stated,Never,No,Not stated,No,No,No,No,Not stated,Not stated,No
+9/12/2023,Felicia,18-24,Female,Divorced,0,No formal education,Others,0,No,0,Yes,2 years,Rarely,Not sure,Not stated,Sometimes,Yes,No,No,Not stated,Not stated,Yes
+9/12/2023,Xatima,55 and above,Female,Widowed,0,No formal education,Retired,0,No,0,No,Not stated,Occasionally,Not sure,Not stated,No,No,Others,No,Not stated,Not stated,Yes
+9/13/2023,Not Stated,35-44,Female,Married,1,Tertiary,Employed,0,No,0,No,Not stated,Not stated,Not stated,Not stated,No,No,Not stated,No,Not stated,Not stated,No
+9/13/2023,Maria,55 and above,Female,Married,5,Primary,Unemployed,2021,Yes,2,Yes,2 years ,Occasionally,Not sure,Not stated,Sometimes,No,Not stated,No,Not stated,Not stated,No
+9/13/2023,Not Stated,25-34,Male,Single,0,No formal education,Unemployed,0,No,0,No,Not stated,Never,No,Not stated,No,No,No,No,Not stated,Not stated,Yes
+9/13/2023,Imeh,45-54,Male,Single,0,No formal education,Unemployed,2013,Yes,10,Yes,10 years ,Daily,No,Not stated,Yes,Yes,Yes,Yes,Not stated,Not stated,Yes
+9/14/2023,Not Stated,25-34,Female,Married,3,Tertiary,Employed,0,No,0,No,Not stated,Not stated,Not stated,Not stated,Not stated,Not stated,Not stated,No,Not stated,Not stated,Not stated
+9/15/2023,Paul Ante,25-34,Male,Single,0,Tertiary,Unemployed,2023,Yes,0,Yes,3 months,Occasionally,No,Not stated,Sometimes,No,Not stated,No,Not stated,Create Awareness,Yes
